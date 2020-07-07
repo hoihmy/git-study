@@ -26,3 +26,8 @@
 |`$ git branch -m <oldbranch> <newbranch>`| Muốn thay đổi tên nhánh|
 |`$ git branch -d <branchname>`| Xóa nhánh|
 |`$ git merge <branch>`| Merge nhánh, nhánh đã chỉ định sẽ được đưa vào nhánh đang chỉ định của HEAD (Merge này là merge fast-forward)|
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
