@@ -1,7 +1,7 @@
 ## Một số thao tác cơ bản
 
-|Câu lệnh|Chức năng|
-|---|---|---|
+|Câu lệnh|Chức năng| 
+|---|:---:|:---:|
 |`$ git init`| Tạo repository trong thư mục mong muốn|
 |`$ git status`| Để hiển thị danh sách của file đã được chỉnh sửa|
 |`$ git add <file>`| Để thêm những file mà bạn muốn commit|
@@ -18,7 +18,7 @@
 
 ## Một số thao tác trên nhánh (branch)
 |Câu lệnh|Chức năng|
-|---|---|---|
+|---:|:---:|---:|
 |`$ git branch`| Muốn hiển thị danh sách của branch|
 |`$ git branch <branchname>`| Tạo nhánh mới nhưng chưa chuyển qua nhánh đó, vẫn ở nhánh hiện tại|
 |`$ git checkout <branch>`| Chuyển nhánh|
