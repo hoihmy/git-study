@@ -26,3 +26,11 @@ Câu lệnh | Chức năng
 `$ git branch -m <oldbranch> <newbranch>`| Muốn thay đổi tên nhánh
 `$ git branch -d <branchname>`| Xóa nhánh
 `$ git merge <branch>`| Merge nhánh, nhánh đã chỉ định sẽ được đưa vào nhánh đang chỉ định của HEAD (Merge này là merge fast-forward)
+
+## Một số thao tác tag
+Câu lệnh | Chức năng
+--- | ---
+`$ git tag` | Muốn hiển thị danh sách của tag
+`$ git tag <tagname>` | Muốn tạo tag
+`$ git tag -a <tagname>` | Muốn tạo tag có gắn kèm chú thích
+`$ git tag -d <tagname>` | Muốn xóa tag
