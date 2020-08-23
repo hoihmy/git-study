@@ -15,7 +15,7 @@ Câu lệnh | Chức năng
 `$ git reset HEAD <file>`| Muốn bỏ file đã thêm trong Index
 `$ git add -u`| Muốn đăng ký trong tất cả Index chỉ những file đã có commit trước đó
 `$ git log` | Muốn hiển thị các commit trước đó
-`$ git clone <repository-url>` | Để tải về sourcecode của remote repository, tạo thành local repository ở máy mình. Ví dụ: `*git clone https://github.com/hoihmy/git-study.git*`
+`$ git clone <repository-url>` | Để tải về sourcecode của remote repository, tạo thành local repository ở máy mình <br/> Ví dụ: `*git clone https://github.com/hoihmy/git-study.git*`
 `$ git pull or git pull origin <branch-name>` | Để cập nhật sourcecode mới nhất cho local repository từ remote repository
 `$ git push origin <branch-name>` | Để chia sẽ lịch sử thay đổi của local repository mà bản thân đang có bằng remote repository, cần phải upload lịch sử thay đổi trong local repository
 
@@ -41,6 +41,6 @@ Câu lệnh | Chức năng
 ## Những cách khắc phục nhầm lẫn trong Git
 Câu lệnh | Chức năng
 --- | ---
-`$ git config user.name "new-name"` | Thay đổi tên tác giả của commit
-`$ git config user.email "new-email"` | ^
-`$ git commit --amend --reset-author` | ^
+`$ git config user.name "new-name"` <br/>
+`$ git config user.email "new-email"` <br/>
+`$ git commit --amend --reset-author` | Thay đổi tên tác giả của commit
