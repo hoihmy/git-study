@@ -1,5 +1,3 @@
-![Picture](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
-![Picture](<img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width=300>)
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" width=300>
 
 # Installing *Git*
