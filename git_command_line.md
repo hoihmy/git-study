@@ -41,6 +41,4 @@ Câu lệnh | Chức năng
 ## Những cách khắc phục nhầm lẫn trong Git
 Câu lệnh | Chức năng
 --- | ---
-`$ git config user.name "new-name"` <br/>
-`$ git config user.email "new-email"` <br/>
-`$ git commit --amend --reset-author` | Thay đổi tên tác giả của commit
+`$ git config user.name "new-name"`<br/>`$ git config user.email "new-email"`<br/>`$ git commit --amend --reset-author` | Thay đổi tên tác giả của commit
