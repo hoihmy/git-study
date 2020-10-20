@@ -37,6 +37,8 @@ Câu lệnh | Chức năng
 `$ git tag <tag-name>` | Muốn tạo tag
 `$ git tag -a <tag-name>` | Muốn tạo tag có gắn kèm chú thích
 `$ git tag -d <tag-name>` | Muốn xóa tag
+`$ git push origin <tag-name>` | Muốn push single tag
+`$ git push origin --tags` | Muốn push all tags
 
 ## Những cách khắc phục nhầm lẫn trong Git
 Câu lệnh | Chức năng
