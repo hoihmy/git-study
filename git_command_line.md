@@ -45,6 +45,7 @@ Câu lệnh | Chức năng
 --- | ---
 `$ git config --global --list` | Hiển thị thông tin cho cấu hình chung của git
 `$ git config --local --list` | Hiển thị thông tin cho cấu hình ở 1 repository đang trỏ
+`$ git config --global --edit` | Hiển thị thông tin của user của git ở màn hình vim
 `$ git config user.name "new-name"` <br/> `$ git config user.email "new-email"` <br/> `$ git commit --amend --reset-author` | Thay đổi tên tác giả của commit
 `$ git reset <file-name>` | Muốn "undo" thay đổi trên một file cố định trước khi commit, có thể dùng lệnh *reset*
 `$ git reset --soft HEAD~1` | Nếu muốn undo hẳn một commit (do đã lỡ commit xong rồi) và giữ lại những thay đổi hiện tại (chưa commit)
